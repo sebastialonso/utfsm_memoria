@@ -1,0 +1,63 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: thesis.aux
+A level-1 auxiliary file: include/acknowledgements.aux
+A level-1 auxiliary file: include/resumen.aux
+A level-1 auxiliary file: include/abstract.aux
+A level-1 auxiliary file: include/glossary.aux
+The style file: babplain.bst
+Database file #1: bib/papers.bib
+Warning--to sort, need author, editor, or key in scrum_report_1
+Warning--to sort, need author or key in disadvantages_agile
+Warning--to sort, need author or key in nursoft
+Warning--to sort, need author or key in coursera
+Warning--to sort, need author or key in taiga_webhooks
+Warning--to sort, need author or key in taiga_api
+Warning--to sort, need author or key in jira_features
+Warning--to sort, need author or key in jira_api
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--empty language in nursoft
+Warning--empty author and editor in scrum_report_1
+Warning--empty booktitle in satria_systematic
+You've used 14 entries,
+            2788 wiz_defined-function locations,
+            690 strings with 7648 characters,
+and the built_in function-call counts, 4074 in all, are:
+= -- 317
+> -- 123
+< -- 1
++ -- 57
+- -- 40
+* -- 376
+:= -- 528
+add.period$ -- 26
+call.type$ -- 14
+change.case$ -- 58
+chr.to.int$ -- 0
+cite$ -- 25
+duplicate$ -- 217
+empty$ -- 484
+format.name$ -- 77
+if$ -- 895
+int.to.chr$ -- 0
+int.to.str$ -- 14
+missing$ -- 3
+newline$ -- 69
+num.names$ -- 12
+pop$ -- 152
+preamble$ -- 1
+purify$ -- 47
+quote$ -- 0
+skip$ -- 148
+stack$ -- 0
+substring$ -- 93
+swap$ -- 73
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 54
+warning$ -- 11
+while$ -- 14
+width$ -- 16
+write$ -- 128
+(There were 11 warnings)

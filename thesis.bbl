@@ -1,0 +1,108 @@
+\begin{thebibliography}{10}
+  \providebibliographyfont{name}{}%
+  \providebibliographyfont{lastname}{}%
+  \providebibliographyfont{title}{\emph}%
+  \providebibliographyfont{jtitle}{\btxtitlefont}%
+  \providebibliographyfont{etal}{\emph}%
+  \providebibliographyfont{journal}{}%
+  \providebibliographyfont{volume}{}%
+  \providebibliographyfont{ISBN}{\MakeUppercase}%
+  \providebibliographyfont{ISSN}{\MakeUppercase}%
+  \providebibliographyfont{url}{\url}%
+  \providebibliographyfont{numeral}{}%
+  \expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
+
+\expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
+\bibitem {nursoft}
+{\latintext \btxurlfont{https://nursoft.cl}}.
+
+\bibitem {coursera}
+{\latintext \btxurlfont{https://www.coursera.org/}}.
+
+\bibitem {scrum_report_1}
+\btxtitlefont {The state of SCRUM Report}.
+\newblock \btxpublisherfont {The Scrum Alliance}, 2015.
+
+\bibitem {jira_api}
+\btxtitlefont {\btxifchangecase {Jira cloud platform developer - rest api}{Jira
+  Cloud platform Developer - REST API}}, 2019.
+\newblock {\latintext
+  \btxurlfont{https://developer.atlassian.com/cloud/jira/platform/rest/v3/}}.
+
+\bibitem {jira_features}
+\btxtitlefont {\btxifchangecase {Jira software - features. atlassian}{Jira
+  Software - Features. Atlassian}}, 2019.
+\newblock {\latintext
+  \btxurlfont{https://www.atlassian.com/software/jira/features}}.
+
+\bibitem {taiga_api}
+\btxtitlefont {\btxifchangecase {Taiga api documentation}{Taiga API
+  Documentation}}, 2019.
+\newblock {\latintext
+  \btxurlfont{https://taigaio.github.io/taiga-doc/dist/api.html}}.
+
+\bibitem {taiga_webhooks}
+\btxtitlefont {\btxifchangecase {Taiga support - webhooks}{Taiga Support -
+  Webhooks}}, 2019.
+\newblock {\latintext
+  \btxurlfont{https://tree.taiga.io/support/integrations/webhooks/}}.
+
+\bibitem {disadvantages_agile}
+\btxtitlefont {\btxifchangecase {What are the disadvantages of agile?}{What are
+  the disadvantages of agile?}}, 2019.
+\newblock {\latintext
+  \btxurlfont{https://leankit.com/learn/agile/what-are-the-disadvantages-of-agile/}}.
+
+\bibitem {beck2001agile}
+\btxnamefont {\btxlastnamefont {Beck}, Kent}, \btxnamefont {Mike
+  \btxlastnamefont {Beedle}}, \btxnamefont {Arie \btxlastnamefont
+  {Van~Bennekum}}, \btxnamefont {Alistair \btxlastnamefont {Cockburn}},
+  \btxnamefont {Ward \btxlastnamefont {Cunningham}}, \btxnamefont {Martin
+  \btxlastnamefont {Fowler}}, \btxnamefont {James \btxlastnamefont {Grenning}},
+  \btxnamefont {Jim \btxlastnamefont {Highsmith}}, \btxnamefont {Andrew
+  \btxlastnamefont {Hunt}}, \btxnamefont {Ron \btxlastnamefont
+  {Jeffries}}\btxandcomma {} \btxetalfont {\btxetalshort {.}}\btxauthorcolon\
+  \btxtitlefont {\btxifchangecase {The agile manifesto}{The agile manifesto}},
+  2001.
+
+\bibitem {denning_2015}
+\btxnamefont {\btxlastnamefont {Denning}, Steve}\btxauthorcolon\ \btxtitlefont
+  {\btxifchangecase {Agile: The world's most popular innovation engine}{Agile:
+  The World's Most Popular Innovation Engine}}, 2015.
+\newblock {\latintext
+  \btxurlfont{https://www.forbes.com/sites/stevedenning/2015/07/23/the-worlds-most-popular-innovation-engine}}.
+
+\bibitem {mas'ad_2019}
+\btxnamefont {\btxlastnamefont {Mas'Ad}, Rafik}, \btxnamefont {Ricardo
+  \btxlastnamefont {{\~{N}}anculef}}\btxandcomma {} \btxandlong {}\
+  \btxnamefont {Hern{\'{a}}n \btxlastnamefont {Astudillo}}\btxauthorcolon\
+  \btxtitlefont {\btxifchangecase {Blacksheep: Dynamic effort estimation in
+  agile software development using machine learning}{BlackSheep: Dynamic Effort
+  Estimation in Agile Software Development using Machine Learning}}.
+\newblock \Btxinlong {}\ \btxtitlefont {CIbSE}. \btxpublisherfont {Curran
+  Associates}, 2019.
+
+\bibitem {morales_2019}
+\btxnamefont {\btxlastnamefont {Morales}, Felipe}\btxauthorcolon\ \btxtitlefont
+  {Estimación de esfuerzo en proyectos de software a partir de historias de
+  usuario}.
+\newblock \btxifchangecase {Memoria}{Memoria}, Universidad Técnica Federico
+  Santa María, 2019.
+
+\bibitem {plaza_2015}
+\btxnamefont {\btxlastnamefont {Plaza}, Diego}\btxauthorcolon\ \btxtitlefont
+  {Aplicación basada en SOA para establecer buenas prácticas de desarrollo en
+  sistemas web}.
+\newblock \btxifchangecase {Memoria}{Memoria}, Universidad Técnica Federico
+  Santa María, 2015.
+
+\bibitem {satria_systematic}
+\btxnamefont {\btxlastnamefont {Satria}, Deki}, \btxnamefont {Dana
+  \btxlastnamefont {Sensuse}}\btxandcomma {} \btxandlong {}\ \btxnamefont
+  {Handrie \btxlastnamefont {Noprisson}}\btxauthorcolon\ \btxtitlefont
+  {\btxifchangecase {A systematic literature review of the improved agile
+  software development}{A systematic literature review of the improved agile
+  software development}}.
+\newblock \btxpageslong {}\ 94--99, \btxprintmonthyear{.}{10}{2017}{long}.
+
+\end{thebibliography}

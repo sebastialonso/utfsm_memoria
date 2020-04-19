@@ -1,0 +1,91 @@
+\section{Impactos y alcances}
+
+\subsection{Impactos}
+
+Tomando en cuenta las preguntas planteadas en la sección Identificación del Problema,
+a continuación se describe el impacto que la solución propuesta tiene en la organización:
+
+\begin{itemize}
+  \item ¿Cómo hacer el proceso de desarrollo de software más transparente al cliente?
+  
+  La manera de trabajar de Nursoft desde el punto de vista comercial es a través
+  de planes de equipo.
+  El cliente paga por un equipo de ciertas características y tamaño, lo que se
+  traduce en horas efectivas de trabajo. Por ejemplo, un proyecto del último año
+  contempló la construcción de una plataforma de \textit{e-learning}\footnotemark[1]
+  al estilo de Coursera\cite{coursera}. El cliente contrató un plan de equipo conformado
+  por un diseñador full-time, un ingeniero civil full-time, un ingeniero civil
+  part-time y una hueste de otros profesionales: \textit{DevOps}\footnotemark[2], ingeniero de
+  aseguramiento de calidad, arquitecto de software y asesoría comercial. Esto se
+  traduce directamente a un número de horas mensuales por contrato.
+  
+  \footnotetext[1]{De \textit{electronic-learning}, se refiere a la educación o capacitación a través de internet.}
+  \footnotetext[2]{Si bien la academia y la industria aún pelean por encontrar una definición común,
+  se refiere a un conjunto de prácticas de desarrollo de software y de adminsitración de sistemas con
+  el fin de levantar y automatizar infraestructura tecnológica, ambientes de desarrollo y producción, y entrega continua de valor.}
+  
+  Nursoft entiende como transparencia informar al cliente no sólo cuántas horas
+  se inviertieron en el proyecto, sino que \textit{en qué} se inviertieron estas horas,
+  con detalles que pueden ser por funcionalidad/historia de usuario o por tipo de trabajo.
+  Adicionalmente, Nursoft también informa a sus clientes sobre la inversión en
+  \textit{horas complementarias}\footnotemark[3].
+
+
+  Con una plataforma dedicada al reporte y gestión de esfuerzos, este problema se reduce a
+  agregar reportes del proyecto según filtros deseados, bajo la demanda del
+  cliente y de manera automatizada.
+  \item ¿Cómo se traspasa el conocimiento de gestión obtenido por el equipo, no sólo al cliente,
+  sino que también a la empresa?
+
+  El conocimiento de gestión aprendido durante la vida de un proyecto, se refleja
+  directamente en los esfuerzos, y especialmente \textit{en qué tan fielmente} se registran.
+
+  En el contexto de un proyecto particular, teniendo el agregado de esfuerzos totales
+  invertidos en cierto requerimiento, permiten tanto al Cliente como al Jefe de Proyecto
+  contar con información histórica y fidedigna cuando se planifiquen requerimientos similares,
+  entregando inmediatamente una mejor estimación de tiempos y plazos.
+
+  En el contexto de la empresa Nursoft, contar con un histórico de esfuerzos no sólo de historias
+  de usuarios y entregas de versiones, sino que de macro-procesos\footnotemark[4] permite pronosticar y
+  planificar con mayor información y eficacia variables como plazos generales de proyectos,
+  equipos, capacidad de equipos (contrataciones nuevas) y oportunidades de ventas.
+
+  Cabe además insistir que Nursoft seguirá seguirá trabajando sobre esta plataforma,
+  extendiéndola a otros casos de uso y en particular sobre la mina de oro que son los esfuerzos, aplicando,
+  por ejemplo, técnicas avanzadas de aprendizaje de máquinas o post-procesamiento,
+  generando y descubriendo nuevos conocimientos sobre sus procesos.
+  Por lo mismo, la solución propuesta debe entregar buena flexibilidad, rendimiento
+  y una alta reutilización de funcionalidades. Según el trabajo de Diego Plaza\cite{plaza_2015},
+  una arquitectura basada en servicios entrega los requerimientos no funcionales requeridos para la necesidad de la empresa.
+  
+  \footnotetext[3]{Se refiere a trabajo que no es efectivo, no es cobrable al cliente, pero crucial para una correcta gestión de un proyecto ágil: gestión, reuniones con clientes, presentaciones, \textit{sprint reviews}, \textit{daily meetings}, \textit{weekly meetings}, etc.}
+  \footnotetext[4]{Los macro-procesos de Nursoft incluyen Venta, Planificación, Montaje Inicial, Desarrollo y Post-Venta.}
+  
+  \item ¿Cómo se combinan exitosamente las necesidades de la gestión con una
+  experiencia óptima para los equipos de trabajo?
+  
+  Hasta este punto se tienen claras las necesidades y ventajas para la mirada
+  gerencial de esta propuesta. A través de un proceso de levantamiento de necesidades
+  desde los equipos, tanto desde las funcionalidades como de la UX\footnotemark[5], la
+  solución propuesta apunta a ser asimilada dentro de la rutina de trabajo, no solamente
+  para registrar esfuerzos sino para que entregue valor diariamente a los equipos.
+
+  \footnotetext[5]{de \textit{\textbf{U}ser e\textbf{X}perience}, se refiere a todos los aspectos de la interacción de un usuario con un producto, servicio o una compañia.}
+\end{itemize}
+
+
+\subsection{Alcances}
+
+La solución permite la posibilidad de una especie de ecosistema para aplicativos
+relacionados con la gestión de esfuerzos. Sin embargo, este ecosistema potencial
+escapa del contexto de este trabajo, más allá de que ya existan trabajos funcionales
+en Nursoft relacionados con análisis de reportes de esfuerzos.
+
+Las intenciones centrales del presente trabajo son primero, armar la base de dicho
+ecosistema para que trabajos posteriores se alimenten de él, y segundo, entregar una
+primera versión de un informe automatizado de gestión de esfuerzos para el cliente.
+Nursoft se aproxima a este trabajo como un punto de partida o MVP\footnotemark[6],
+puntapié inicial para un proceso iterativo incremental, cuya segunda versión aún
+no termina por decidirse.
+
+\footnotetext[6]{de \textit{\textbf{M}inimum \textbf{V}iable \textbf{P}roduct}, se refiere a la iteración mínima de un producto o servicio, que permite tanto entregar valor como validar hipótesis iniciales.}
