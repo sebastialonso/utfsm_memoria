@@ -65,6 +65,12 @@
   \btxtitlefont {\btxifchangecase {The agile manifesto}{The agile manifesto}},
   2001.
 
+\bibitem {chandler_1962}
+\btxnamefont {\btxlastnamefont {Chandler}, Alfred\btxfnamespacelong
+  D}\btxauthorcolon\ \btxtitlefont {Strategy and structure: Chapters in the
+  History of the American Industrial Enterprise}.
+\newblock \btxpublisherfont {MIT Press}, 1962.
+
 \bibitem {denning_2015}
 \btxnamefont {\btxlastnamefont {Denning}, Steve}\btxauthorcolon\ \btxtitlefont
   {\btxifchangecase {Agile: The world's most popular innovation engine}{Agile:

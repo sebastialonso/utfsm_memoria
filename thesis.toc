@@ -1,41 +1,50 @@
 \babel@toc {spanish}{}
 \babel@toc {spanish}{}
 \babel@toc {spanish}{}
-\contentsline {chapter}{Agradecimientos}{\es@scroman {iii}}{chapter*.1}% 
-\contentsline {chapter}{Resumen}{\es@scroman {iv}}{chapter*.2}% 
-\contentsline {chapter}{Abstract}{\es@scroman {v}}{chapter*.3}% 
-\contentsline {chapter}{\IeC {\'I}ndice de Contenidos}{\es@scroman {vi}}{chapter*.4}% 
-\contentsline {chapter}{Lista de Tablas}{\es@scroman {viii}}{chapter*.5}% 
-\contentsline {chapter}{Lista de Figuras}{\es@scroman {ix}}{chapter*.6}% 
-\contentsline {chapter}{Glosario}{\es@scroman {x}}{chapter*.7}% 
-\contentsline {chapter}{Introducci\'on}{1}{chapter*.8}% 
-\contentsline {chapter}{\numberline {1}Definici\'on del Problema}{2}{chapter.1}% 
-\contentsline {section}{\numberline {1.1}Contexto}{2}{section.1.1}% 
-\contentsline {section}{\numberline {1.2}Identificaci\IeC {\'o}n del problema}{4}{section.1.2}% 
-\contentsline {paragraph}{Clientes}{4}{section*.9}% 
-\contentsline {paragraph}{Nursoft}{4}{section*.10}% 
-\contentsline {paragraph}{Equipos de desarrollo}{5}{section*.11}% 
-\contentsline {section}{\numberline {1.3}Objetivos de la Soluci\IeC {\'o}n}{6}{section.1.3}% 
-\contentsline {subsection}{\numberline {1.3.1}Objetivo General}{6}{subsection.1.3.1}% 
-\contentsline {subsection}{\numberline {1.3.2}Objetivos Espec\IeC {\'\i }ficos}{6}{subsection.1.3.2}% 
-\contentsline {section}{\numberline {1.4}Impactos y alcances}{6}{section.1.4}% 
-\contentsline {subsection}{\numberline {1.4.1}Impactos}{6}{subsection.1.4.1}% 
-\contentsline {subsection}{\numberline {1.4.2}Alcances}{8}{subsection.1.4.2}% 
-\contentsline {chapter}{\numberline {2}Marco Te\IeC {\'o}rico}{10}{chapter.2}% 
-\contentsline {section}{\numberline {2.1}Nursoft}{10}{section.2.1}% 
-\contentsline {subsection}{\numberline {2.1.1}Reporte}{11}{subsection.2.1.1}% 
-\contentsline {subsection}{\numberline {2.1.2}Herramientas de gesti\IeC {\'o}n de proyecto utilizadas}{11}{subsection.2.1.2}% 
-\contentsline {paragraph}{Taiga}{12}{section*.12}% 
-\contentsline {paragraph}{Jira Cloud}{12}{section*.13}% 
-\contentsline {section}{\numberline {2.2}Plataforma}{12}{section.2.2}% 
-\contentsline {subsection}{\numberline {2.2.1}Arquitectura}{12}{subsection.2.2.1}% 
-\contentsline {subsection}{\numberline {2.2.2}Experiencia}{13}{subsection.2.2.2}% 
-\contentsline {subsection}{\numberline {2.2.3}Infraestructura}{13}{subsection.2.2.3}% 
-\contentsline {subsection}{\numberline {2.2.4}Desarrollo}{13}{subsection.2.2.4}% 
-\contentsline {chapter}{\numberline {3}Propuesta}{14}{chapter.3}% 
-\contentsline {chapter}{\numberline {4}Implementaci\'on}{15}{chapter.4}% 
-\contentsline {chapter}{Conclusiones}{16}{chapter*.14}% 
-\contentsline {chapter}{Bibliograf\IeC {\'\i }a}{17}{chapter*.15}% 
+\contentsline {chapter}{Agradecimientos}{\es@scroman {iii}}{chapter*.1}%
+\contentsline {chapter}{Resumen}{\es@scroman {iv}}{chapter*.2}%
+\contentsline {chapter}{Abstract}{\es@scroman {v}}{chapter*.3}%
+\contentsline {chapter}{Índice de Contenidos}{\es@scroman {vi}}{chapter*.4}%
+\contentsline {chapter}{Lista de Tablas}{\es@scroman {ix}}{chapter*.5}%
+\contentsline {chapter}{Lista de Figuras}{\es@scroman {x}}{chapter*.6}%
+\contentsline {chapter}{Glosario}{\es@scroman {xi}}{chapter*.7}%
+\contentsline {chapter}{Introducci\'on}{1}{chapter*.8}%
+\contentsline {chapter}{\numberline {1}Definici\'on del Problema}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Contexto}{2}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Identificación del problema}{4}{section.1.2}%
+\contentsline {paragraph}{Clientes}{4}{section*.9}%
+\contentsline {paragraph}{Nursoft}{4}{section*.10}%
+\contentsline {paragraph}{Equipos de desarrollo}{5}{section*.11}%
+\contentsline {section}{\numberline {1.3}Objetivos de la Solución}{6}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Objetivo General}{6}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Objetivos Específicos}{6}{subsection.1.3.2}%
+\contentsline {section}{\numberline {1.4}Impactos y alcances}{6}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Impactos}{6}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Alcances}{8}{subsection.1.4.2}%
+\contentsline {chapter}{\numberline {2}Marco Teórico}{10}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Nursoft}{10}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Metolodgía de trabajo}{10}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Desarrollo de negocio}{12}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Estrategia}{13}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Planificación}{14}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Infraestructura}{15}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}Desarrollo}{15}{subsection.2.2.5}%
+\contentsline {subsection}{\numberline {2.2.6}Entrega}{15}{subsection.2.2.6}%
+\contentsline {subsection}{\numberline {2.2.7}Post-servicio}{15}{subsection.2.2.7}%
+\contentsline {subsection}{\numberline {2.2.8}Reporte}{16}{subsection.2.2.8}%
+\contentsline {subsection}{\numberline {2.2.9}Herramientas de gestión de proyecto utilizadas}{16}{subsection.2.2.9}%
+\contentsline {paragraph}{Taiga}{16}{section*.14}%
+\contentsline {paragraph}{Jira Cloud}{17}{section*.15}%
+\contentsline {section}{\numberline {2.3}Reporte}{17}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Plataforma}{17}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Arquitectura}{17}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Experiencia}{17}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Infraestructura}{18}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}Desarrollo}{18}{subsection.2.4.4}%
+\contentsline {chapter}{\numberline {3}Propuesta}{19}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Implementaci\'on}{20}{chapter.4}%
+\contentsline {chapter}{Conclusiones}{21}{chapter*.16}%
+\contentsline {chapter}{Bibliografía}{22}{chapter*.17}%
 \babel@toc {spanish}{}
 \babel@toc {spanish}{}
 \babel@toc {spanish}{}
