@@ -49,7 +49,7 @@ ejemplifica la metodología de trabajo para un proyecto de consultoría.
 
 \begin{figure}[h]
     \centering
-    \includegraphics[scale=0.15]{procesos}
+    \includegraphics[scale=0.15]{consultoria}
     \caption{Diagrama de macroprocesos para proyecto de consultoría}
     \label{fig:consultoria}
 \end{figure}
@@ -117,19 +117,111 @@ La \textbf{planificación} es el proceso en el cuál se responde qué solución 
 
 Esta solución se propone, se investiga y se argumenta tanto desde lo técnico hasta de lo visual.
 
-Por defecto, la planificación cuenta con cuatro fases:
+En su defecto, la planificación cuenta con cuatro fases:
 \begin{itemize}
     \item \textbf{Propuesta de solución inicial}
     En la primera propuesta se realizan las mitigaciones técnicas necesarias, y según se necesite se 
     desarrollan los Diagramas de procesos
-    \item \textbf{Desarrollo de marca}
+    \item \textbf{Desarrollo de marca} En donde Diseño realiza benchmarking e investigación
+    de referentes, el \textit{naming}, la paleta de colores y tipografía y
+    finalmente la creación de marca. Esta etapa es opcional, siempre se le sugiere al cliente y
+    sólo se realiza bajo su mandato.
     \item \textbf{Diseño y experiencia de usuario}
+    En donde aparecen los entregables más importantes para la posterior etapa de desarrollo. 
+    Diseño genera el flujo de navegación, \textit{wireframes} preliminares y el \textit{basic design system}.
+    Estos son validados a través de pruebas de usabilidad con usuarios \textit{target}.
+    El entregable final de esta etapa es un prototipo no funcinal hacia el cliente.
     \item \textbf{Propuesta de solucion técnica}
-    En este último paso, los requerimientos son transformados en Historias de usuarios. Las historias se estiman utilizando la metodología de Planning Poker.
+    En este último paso, los requerimientos son transformados en Historias de usuarios. Las historias se estiman utilizando la metodología de \textit{Planning Poker}.
     Utilizando como insumos los entregables de la propuesta inicial, se construye y presenta la propuesta de Arquitectura.
 \end{itemize}
 \subsection{Infraestructura}
+
+El proceso de Infraestructura es uno de los procesos más cortos de todo el flujo de desarrollo de un proyecto de software en Nursoft.
+Sus entregables y responsabilidades son casi totalmente internos.
+
+En este proceso se levanta la infraestructura tecnológica necesaria para el desarrollo del proyecto y la mantención del mismo.
+Tomando como insumo la propuesta aceptada de Arquitectura, el equipo de Operaciones configura los servicios que serán utilizados
+a través de plantillas automáticas. También se configuran los procesos automatizados de integración y despliegue continuo (\textit{CI} y \textit{CD}, respectivamente).
+
+Finalmente, se configura el entorno de \textit{staging}, una versión de prueba de la plataforma final, utilizada para los subprocesos de \textit{Quality Assurance} 
+y de revisión de Diseño.
+
 \subsection{Desarrollo}
+
+El proceso de desarrollo en Nursoft es un proceso iterativo, siguiendo una versión propia y modificada de \textit{SCRUM}.
+
+La unidad mínima de trabajo en este proceso es el \textit{sprint}: es un período donde se trabaja en pos
+de un objetivo de negocio claro. En este período el equipo completa una serie de funcionalidades acordadas al comienzo
+del \textit{sprint} y relacionadas al objetivo.
+
+La definición del objetivo generalmente quedo a criterio del equipo y su \textit{Project Manager}, pero una regla
+fundamental es que cada \textit{sprint} debe generar valor para el cliente y/o el usuario.
+
+Cada sprint se divide en tres etapas, como se muestra en la Figura \ref{fig:sprint}
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[scale=0.15]{procesos}
+  \caption{Etapas de un sprint}
+  \label{fig:sprint}
+\end{figure}
+
+\begin{itemize}
+  \item \textbf{Documentación}
+  Cómo se mencionó anteriormente, al comienzo de cada \textit{sprint} se define el objetivo de negocio, y con éste,
+  las funcionalidades a implementar. Se discute y actualiza o completa la documentación de las
+  historias de usuario correspondientes. 
+  
+  ¿Por qué revisitar la documentación en cada sprint si ya se definieron al final de la Planificación?
+
+  Es común en la experiencia de Nursoft vivir de primera fuente uno de los fundamentos de la metodología ágil en
+  cada \textit{sprint} mencionado en el capítulo anterior: 
+  
+  \begin{displayquote}
+    Énfasis en software que funcione sobre una documentación amplia
+  \end{displayquote}
+
+  Esto es particularmente cierto para proyectos de desarrollo de software a medida.
+  La documentación inicial fue útil para entender el alcance preliminar de la funcionalidad
+  (además de cómo la arquitectura facilita su ejecución), pero a medida que el proyecto avanza,
+  el cliente mismo va mejorando su conocimiento del contexto para cada funcionalidad, y al mismo tiempo refina
+  sus expectativas de éste: plazos, integraciones, prioridad, etc. Por eso es relevante este subproceso de documentación
+  al comienzo de cada \textit{sprint}: permite afinar al conocimiento disponible de todos los \textit{stakeholders} para la funcionalidad.
+
+  \item \textbf{Programacion}
+  Puntos relevantes para este subproceso son:
+  \begin{itemize}
+    \item La gestion del código en todos los equipos se hace a través de una versión modificada de \textit{Gitflow},
+    un flujo de trabajo colaborativo para software de herramientas de control de versiones, como Git.
+    \item El entregable de este subproceso es hacer el despliegue del código al ambiente de \textit{staging}.
+    \item En la gran mayoría de los casos, el desarrollo de funcionalidades implica la generación de pruebas para este mismo.
+    Particularmente, la mayoría de los equipos siguen el proceso de \textit{Test Driven Development} o \textbf{TDD}.
+  \end{itemize}
+
+  \item \textbf{Revisión}
+  
+  El proceso de revisión se constituye de dos tipos de revisiones: la manual y la automatizada.
+
+  La \textbf{revisión automatizada} se realiza de manera continua durante el subproceso de programación, a través del proceso de Integración continua.
+  Con cada sección de código enviada al repositorio central, se gatillan las pruebas automatizadas generadas en TDD. Si y sólo si las
+  pruebas pasan, la sección de código enviada se mezcla con el repositorio.
+
+  La \textbf{revision manual} cuenta con tres fases: \textit{code review}, revisiones de QA y revisión de diseño. Las revisiones de QA
+  se ejecutan cuando las funcionalidades fueron completadas, y se llevan a cabo en el ambiente de \textit{staging}. 
+  Su principal aporte es verificar una calidad mínima de la funcionalidad. Se realizan a través de un conjunto de casos de prueba o
+  escenarios de casos de uso, generados a partir de la documentación contextual de la historia de usuario. También son consideradas partes de la documentación.
+
+  El proceso de \textit{code review} se realiza idealmente posterior a la revisión de QA, pues se busca calificar la calidad
+  del código y la legibilidad entre pares.
+
+  Finalmente, las revisiones de diseño aplican donde se haya generado una interfaz visual, y verifican que haya una fiel correlación
+  con los \textit{mockups} o \textit{wireframes}, donde corresponda, y que la experiencia de usuario con la nueva interfaz sea óptima.
+
+  Para poder continuar al siguiente proceso, un \textit{sprint} debe aprobar sin fallas severas todas las revisiones anteriores.
+
+\end{itemize}
+
 \subsection{Entrega}
 \subsection{Post-servicio}
 

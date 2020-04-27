@@ -426,8 +426,16 @@ INPUT /Users/seba.gonzalez/Documents/memoria/include/marco_teorico/marco.tex
 INPUT /Users/seba.gonzalez/Documents/memoria/./images/procesos.png
 INPUT /Users/seba.gonzalez/Documents/memoria/./images/procesos.png
 INPUT /Users/seba.gonzalez/Documents/memoria/./images/procesos.png
+INPUT /Users/seba.gonzalez/Documents/memoria/./images/consultoria.png
+INPUT /Users/seba.gonzalez/Documents/memoria/./images/consultoria.png
+INPUT /Users/seba.gonzalez/Documents/memoria/./images/consultoria.png
 INPUT /Users/seba.gonzalez/Documents/memoria/./images/procesos.png
 INPUT /Users/seba.gonzalez/Documents/memoria/./images/procesos.png
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/txfonts/ts1txr.fd
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/txfonts/ts1txr.fd
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/tcxr.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/txfonts/tcxr.vf
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/rtcxr.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/txfonts/ot1txtt.fd
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/txfonts/ot1txtt.fd
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txtt.tfm
@@ -455,6 +463,7 @@ INPUT /Users/seba.gonzalez/Documents/memoria/include/glossary.aux
 INPUT /Users/seba.gonzalez/Documents/memoria/thesis.out
 INPUT /Users/seba.gonzalez/Documents/memoria/thesis.out
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/txfonts/rtcxr.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/txfonts/rtxbsc.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/txfonts/rtxi.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb
