@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  26 APR 2020 23:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  27 APR 2020 18:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -792,14 +792,14 @@ LaTeX Info: Redefining \% on input line 25.
 LaTeX Info: Redefining \. on input line 26.
 LaTeX Info: Redefining \% on input line 26.
  (/Users/seba.gonzalez/Documents/memoria/include/acknowledgements.aux) (/Users/seba.gonzalez/Documents/memoria/include/resumen.aux) (/Users/seba.gonzalez/Documents/memoria/include/abstract.aux) (/Users/seba.gonzalez/Documents/memoria/include/glossary.aux)
+LaTeX Info: Redefining \. on input line 116.
+LaTeX Info: Redefining \% on input line 116.
 LaTeX Info: Redefining \. on input line 117.
 LaTeX Info: Redefining \% on input line 117.
-LaTeX Info: Redefining \. on input line 118.
-LaTeX Info: Redefining \% on input line 118.
-LaTeX Info: Redefining \. on input line 121.
-LaTeX Info: Redefining \% on input line 121.
-LaTeX Info: Redefining \. on input line 122.
-LaTeX Info: Redefining \% on input line 122.
+LaTeX Info: Redefining \. on input line 119.
+LaTeX Info: Redefining \% on input line 119.
+LaTeX Info: Redefining \. on input line 120.
+LaTeX Info: Redefining \% on input line 120.
 )
 \openout1 = `thesis.aux'.
 
@@ -929,7 +929,7 @@ Package epstopdf Info: Source file: <images/isotipo_negro.eps>
 (epstopdf)             Command: <repstopdf --outfile=images/isotipo_negro-eps-converted-to.pdf images/isotipo_negro.eps>
 (epstopdf)             \includegraphics on input line 107.
 Package epstopdf Info: Output file is already uptodate.
-<images/isotipo_negro-eps-converted-to.pdf, id=163, 692.5875pt x 504.88625pt>
+<images/isotipo_negro-eps-converted-to.pdf, id=155, 692.5875pt x 504.88625pt>
 File: images/isotipo_negro-eps-converted-to.pdf Graphic file (type pdf)
 <use images/isotipo_negro-eps-converted-to.pdf>
 Package pdftex.def Info: images/isotipo_negro-eps-converted-to.pdf  used on input line 107.
@@ -952,7 +952,7 @@ Package epstopdf Info: Source file: <images/logo_usm.eps>
 (epstopdf)             Command: <repstopdf --outfile=images/logo_usm-eps-converted-to.pdf images/logo_usm.eps>
 (epstopdf)             \includegraphics on input line 107.
 Package epstopdf Info: Output file is already uptodate.
-<images/logo_usm-eps-converted-to.pdf, id=174, 591.20876pt x 428.60126pt>
+<images/logo_usm-eps-converted-to.pdf, id=166, 591.20876pt x 428.60126pt>
 File: images/logo_usm-eps-converted-to.pdf Graphic file (type pdf)
 <use images/logo_usm-eps-converted-to.pdf>
 Package pdftex.def Info: images/logo_usm-eps-converted-to.pdf  used on input line 107.
@@ -1022,20 +1022,20 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 ) [6
 
 
-] [7]
-LaTeX Info: Redefining \. on input line 48.
-LaTeX Info: Redefining \% on input line 48.
-LaTeX Info: Redefining \. on input line 49.
-LaTeX Info: Redefining \% on input line 49.
-LaTeX Info: Redefining \. on input line 50.
-LaTeX Info: Redefining \% on input line 50.
-LaTeX Info: Redefining \. on input line 51.
-LaTeX Info: Redefining \% on input line 51.
+]
+LaTeX Info: Redefining \. on input line 44.
+LaTeX Info: Redefining \% on input line 44.
+LaTeX Info: Redefining \. on input line 45.
+LaTeX Info: Redefining \% on input line 45.
+LaTeX Info: Redefining \. on input line 46.
+LaTeX Info: Redefining \% on input line 46.
+LaTeX Info: Redefining \. on input line 47.
+LaTeX Info: Redefining \% on input line 47.
 )
 \tf@toc=\write4
 \openout4 = `thesis.toc'.
 
- [8] (/Users/seba.gonzalez/Documents/memoria/thesis.lot
+ [7] (/Users/seba.gonzalez/Documents/memoria/thesis.lot
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 LaTeX Info: Redefining \. on input line 2.
@@ -1054,7 +1054,7 @@ LaTeX Info: Redefining \% on input line 11.
 \tf@lot=\write5
 \openout5 = `thesis.lot'.
 
- [9
+ [8
 
 ] (/Users/seba.gonzalez/Documents/memoria/thesis.lof
 LaTeX Info: Redefining \. on input line 1.
@@ -1063,25 +1063,25 @@ LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
 LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
-LaTeX Info: Redefining \. on input line 11.
-LaTeX Info: Redefining \% on input line 11.
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
 LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
 LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
+LaTeX Info: Redefining \. on input line 15.
+LaTeX Info: Redefining \% on input line 15.
 )
 \tf@lof=\write6
 \openout6 = `thesis.lof'.
 
- [10
+ [9
 
 ]
 Abbreviations
 \openout2 = `include/glossary.aux'.
 
-(/Users/seba.gonzalez/Documents/memoria/include/glossary.tex) [11
+(/Users/seba.gonzalez/Documents/memoria/include/glossary.tex) [10
 
 
 ]
@@ -1107,42 +1107,44 @@ Cap\'{\i }tulo 2.
 (/Users/seba.gonzalez/Documents/memoria/include/marco_teorico/nursoft.tex) (/Users/seba.gonzalez/Documents/memoria/include/marco_teorico/marco.tex [10
 
 ] [11]
-<./images/procesos.png, id=342, 2790.425pt x 321.2pt>
+<./images/procesos.png, id=330, 2790.425pt x 321.2pt>
 File: ./images/procesos.png Graphic file (type png)
 <use ./images/procesos.png>
 Package pdftex.def Info: ./images/procesos.png  used on input line 42.
 (pdftex.def)             Requested size: 418.5457pt x 48.17792pt.
-<./images/consultoria.png, id=345, 1184.425pt x 281.05pt>
+<./images/consultoria.png, id=333, 1184.425pt x 281.05pt>
 File: ./images/consultoria.png Graphic file (type png)
 <use ./images/consultoria.png>
 Package pdftex.def Info: ./images/consultoria.png  used on input line 52.
 (pdftex.def)             Requested size: 177.65608pt x 42.15567pt.
- [12 </Users/seba.gonzalez/Documents/memoria/./images/procesos.png> </Users/seba.gonzalez/Documents/memoria/./images/consultoria.png>] [13] [14]
-File: ./images/procesos.png Graphic file (type png)
-<use ./images/procesos.png>
-Package pdftex.def Info: ./images/procesos.png  used on input line 165.
-(pdftex.def)             Requested size: 418.5457pt x 48.17792pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[15]
-LaTeX Font Info:    Trying to load font information for TS1+txr on input line 195.
+ [12 </Users/seba.gonzalez/Documents/memoria/./images/procesos.png> </Users/seba.gonzalez/Documents/memoria/./images/consultoria.png>] [13] [14] [15]
+<./images/sprint.png, id=362, 1264.725pt x 321.2pt>
+File: ./images/sprint.png Graphic file (type png)
+<use ./images/sprint.png>
+Package pdftex.def Info: ./images/sprint.png  used on input line 171.
+(pdftex.def)             Requested size: 316.18048pt x 80.2998pt.
+LaTeX Font Info:    Trying to load font information for TS1+txr on input line 204.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/txfonts/ts1txr.fd
 File: ts1txr.fd 2000/12/15 v3.1
-) [16] [17] [18]
-LaTeX Font Info:    Trying to load font information for OT1+txtt on input line 279.
+) [16 </Users/seba.gonzalez/Documents/memoria/./images/sprint.png>] [17]
+<./images/semver.png, id=375, 379.4175pt x 128.48pt>
+File: ./images/semver.png Graphic file (type png)
+<use ./images/semver.png>
+Package pdftex.def Info: ./images/semver.png  used on input line 260.
+(pdftex.def)             Requested size: 208.68027pt x 70.6642pt.
+ [18 </Users/seba.gonzalez/Documents/memoria/./images/semver.png>]
+LaTeX Font Info:    Trying to load font information for OT1+txtt on input line 269.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/txfonts/ot1txtt.fd
 File: ot1txtt.fd 2000/12/15 v3.1
-) [19]) (/Users/seba.gonzalez/Documents/memoria/include/marco_teorico/reporte.tex) (/Users/seba.gonzalez/Documents/memoria/include/marco_teorico/plataforma.tex)) (/Users/seba.gonzalez/Documents/memoria/include/propuesta.tex [20]
+) [19]) (/Users/seba.gonzalez/Documents/memoria/include/marco_teorico/reporte.tex) (/Users/seba.gonzalez/Documents/memoria/include/marco_teorico/plataforma.tex [20])) (/Users/seba.gonzalez/Documents/memoria/include/propuesta.tex [21]
 Cap\'{\i }tulo 3.
-) (/Users/seba.gonzalez/Documents/memoria/include/implementacion.tex [21
+) (/Users/seba.gonzalez/Documents/memoria/include/implementacion.tex [22
 
 ]
 Cap\'{\i }tulo 4.
-) (/Users/seba.gonzalez/Documents/memoria/include/conclusiones.tex [22
+) (/Users/seba.gonzalez/Documents/memoria/include/conclusiones.tex [23
 
-]) [23
+]) [24
 
 ] (/Users/seba.gonzalez/Documents/memoria/thesis.bbl
 babelbib: Using the BibTeX style's default font for `name'.
@@ -1176,72 +1178,67 @@ LaTeX Info: Redefining \lsc on input line 15.
 LaTeX Info: Redefining \. on input line 15.
 LaTeX Info: Redefining \% on input line 15.
 LaTeX Info: Redefining \dotlessi on input line 15.
+LaTeX Info: Redefining \sptext on input line 43.
+LaTeX Info: Redefining \lsc on input line 43.
+LaTeX Info: Redefining \. on input line 43.
+LaTeX Info: Redefining \% on input line 43.
+LaTeX Info: Redefining \dotlessi on input line 43.
 
-Underfull \hbox (badness 3364) in paragraph at lines 34--37
-[]\OT1/txr/m/it/12 Jira Soft-wa-re - Fea-tu-res. Atlas-sian\OT1/txr/m/n/12 , 2019.  [][]$\OT1/txtt/m/n/12 https : / / www . atlassian . com /
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 40--43
-[]\OT1/txr/m/it/12 Taiga API Do-cu-men-ta-tion\OT1/txr/m/n/12 , 2019.  [][]$\OT1/txtt/m/n/12 https : / / taigaio . github . io / taiga-[]doc /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--49
-[]\OT1/txr/m/it/12 Taiga Sup-port - Webhooks\OT1/txr/m/n/12 , 2019.  [][]$\OT1/txtt/m/n/12 https : / / tree . taiga . io / support /
- []
-
-LaTeX Info: Redefining \sptext on input line 64.
-LaTeX Info: Redefining \lsc on input line 64.
-LaTeX Info: Redefining \. on input line 64.
-LaTeX Info: Redefining \% on input line 64.
-LaTeX Info: Redefining \dotlessi on input line 64.
-
-Underfull \hbox (badness 10000) in paragraph at lines 75--80
+Underfull \hbox (badness 10000) in paragraph at lines 64--69
 []\OT1/txr/m/n/12 Denning, Ste-ve: \OT1/txr/m/it/12 Agi-le: The World's Most Po-pu-lar In-no-va-tion En-gi-ne\OT1/txr/m/n/12 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--80
+Underfull \hbox (badness 10000) in paragraph at lines 64--69
 \OT1/txr/m/n/12 2015.  [][]$\OT1/txtt/m/n/12 https : / / www . forbes . com / sites / stevedenning / 2015 / 07 / 23 /
  []
 
-LaTeX Info: Redefining \sptext on input line 83.
-LaTeX Info: Redefining \lsc on input line 83.
-LaTeX Info: Redefining \. on input line 83.
-LaTeX Info: Redefining \% on input line 83.
-LaTeX Info: Redefining \dotlessi on input line 83.
-LaTeX Info: Redefining \sptext on input line 88.
-LaTeX Info: Redefining \lsc on input line 88.
-LaTeX Info: Redefining \. on input line 88.
-LaTeX Info: Redefining \% on input line 88.
-LaTeX Info: Redefining \dotlessi on input line 88.
-[24
+LaTeX Info: Redefining \sptext on input line 74.
+LaTeX Info: Redefining \lsc on input line 74.
+LaTeX Info: Redefining \. on input line 74.
+LaTeX Info: Redefining \% on input line 74.
+LaTeX Info: Redefining \dotlessi on input line 74.
+LaTeX Info: Redefining \sptext on input line 74.
+LaTeX Info: Redefining \lsc on input line 74.
+LaTeX Info: Redefining \. on input line 74.
+LaTeX Info: Redefining \% on input line 74.
+LaTeX Info: Redefining \dotlessi on input line 74.
+LaTeX Info: Redefining \sptext on input line 79.
+LaTeX Info: Redefining \lsc on input line 79.
+LaTeX Info: Redefining \. on input line 79.
+LaTeX Info: Redefining \% on input line 79.
+LaTeX Info: Redefining \dotlessi on input line 79.
+LaTeX Info: Redefining \sptext on input line 84.
+LaTeX Info: Redefining \lsc on input line 84.
+LaTeX Info: Redefining \. on input line 84.
+LaTeX Info: Redefining \% on input line 84.
+LaTeX Info: Redefining \dotlessi on input line 84.
+[25
 
 
 ]
-LaTeX Info: Redefining \sptext on input line 107.
-LaTeX Info: Redefining \lsc on input line 107.
-LaTeX Info: Redefining \. on input line 107.
-LaTeX Info: Redefining \% on input line 107.
-LaTeX Info: Redefining \dotlessi on input line 107.
-LaTeX Info: Redefining \sptext on input line 112.
-LaTeX Info: Redefining \lsc on input line 112.
-LaTeX Info: Redefining \. on input line 112.
-LaTeX Info: Redefining \% on input line 112.
-LaTeX Info: Redefining \dotlessi on input line 112.
-LaTeX Info: Redefining \sptext on input line 112.
-LaTeX Info: Redefining \lsc on input line 112.
-LaTeX Info: Redefining \. on input line 112.
-LaTeX Info: Redefining \% on input line 112.
-LaTeX Info: Redefining \dotlessi on input line 112.
-LaTeX Info: Redefining \. on input line 114.
-LaTeX Info: Redefining \% on input line 114.
-LaTeX Info: Redefining \. on input line 114.
-LaTeX Info: Redefining \% on input line 114.
+LaTeX Info: Redefining \sptext on input line 103.
+LaTeX Info: Redefining \lsc on input line 103.
+LaTeX Info: Redefining \. on input line 103.
+LaTeX Info: Redefining \% on input line 103.
+LaTeX Info: Redefining \dotlessi on input line 103.
+LaTeX Info: Redefining \sptext on input line 108.
+LaTeX Info: Redefining \lsc on input line 108.
+LaTeX Info: Redefining \. on input line 108.
+LaTeX Info: Redefining \% on input line 108.
+LaTeX Info: Redefining \dotlessi on input line 108.
+LaTeX Info: Redefining \sptext on input line 108.
+LaTeX Info: Redefining \lsc on input line 108.
+LaTeX Info: Redefining \. on input line 108.
+LaTeX Info: Redefining \% on input line 108.
+LaTeX Info: Redefining \dotlessi on input line 108.
+LaTeX Info: Redefining \. on input line 110.
+LaTeX Info: Redefining \% on input line 110.
+LaTeX Info: Redefining \. on input line 110.
+LaTeX Info: Redefining \% on input line 110.
 )
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 138.
- [25]
+ [26]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 138.
  (/Users/seba.gonzalez/Documents/memoria/thesis.aux
 LaTeX Info: Redefining \. on input line 24.
@@ -1251,34 +1248,34 @@ LaTeX Info: Redefining \% on input line 25.
 LaTeX Info: Redefining \. on input line 26.
 LaTeX Info: Redefining \% on input line 26.
  (/Users/seba.gonzalez/Documents/memoria/include/acknowledgements.aux) (/Users/seba.gonzalez/Documents/memoria/include/resumen.aux) (/Users/seba.gonzalez/Documents/memoria/include/abstract.aux) (/Users/seba.gonzalez/Documents/memoria/include/glossary.aux)
+LaTeX Info: Redefining \. on input line 116.
+LaTeX Info: Redefining \% on input line 116.
 LaTeX Info: Redefining \. on input line 117.
 LaTeX Info: Redefining \% on input line 117.
-LaTeX Info: Redefining \. on input line 118.
-LaTeX Info: Redefining \% on input line 118.
-LaTeX Info: Redefining \. on input line 121.
-LaTeX Info: Redefining \% on input line 121.
-LaTeX Info: Redefining \. on input line 122.
-LaTeX Info: Redefining \% on input line 122.
+LaTeX Info: Redefining \. on input line 119.
+LaTeX Info: Redefining \% on input line 119.
+LaTeX Info: Redefining \. on input line 120.
+LaTeX Info: Redefining \% on input line 120.
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 138.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 138.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 08412C269D9437DE83E2DE08A9C5C13F;2387.
+(rerunfilecheck)             Checksum: A3E032AE6DF681D7C5A197665529A95B;2223.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 138.
  ) 
 Here is how much of TeX's memory you used:
- 13397 strings out of 480608
- 206332 string characters out of 5903631
+ 13408 strings out of 480608
+ 206546 string characters out of 5903631
  651574 words of memory out of 5000000
- 28786 multiletter control sequences out of 15000+600000
+ 28800 multiletter control sequences out of 15000+600000
  594611 words of font info for 158 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,7n,43p,978b,993s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,7n,43p,978b,995s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/txfonts/rtcxr.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/txfonts/rtxbsc.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/txfonts/rtxi.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/txfonts/rtxsc.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /Users/seba.gonzalez/Documents/memoria/thesis.pdf (36 pages, 228150 bytes).
+Output written on /Users/seba.gonzalez/Documents/memoria/thesis.pdf (36 pages, 249226 bytes).
 PDF statistics:
- 495 PDF objects out of 1000 (max. 8388607)
- 431 compressed objects within 5 object streams
- 99 named destinations out of 1000 (max. 500000)
- 348 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 481 PDF objects out of 1000 (max. 8388607)
+ 413 compressed objects within 5 object streams
+ 96 named destinations out of 1000 (max. 500000)
+ 342 words of extra memory for PDF output out of 10000 (max. 10000000)
 

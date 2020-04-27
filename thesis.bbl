@@ -19,33 +19,12 @@
 \bibitem {coursera}
 {\latintext \btxurlfont{https://www.coursera.org/}}.
 
+\bibitem {iso_2005}
+\btxpublisherfont {\btxtitlefont {ISO 9000:2005, Clause 3.2.11}}.
+
 \bibitem {scrum_report_1}
 \btxtitlefont {The state of SCRUM Report}.
 \newblock \btxpublisherfont {The Scrum Alliance}, 2015.
-
-\bibitem {jira_api}
-\btxtitlefont {\btxifchangecase {Jira cloud platform developer - rest api}{Jira
-  Cloud platform Developer - REST API}}, 2019.
-\newblock {\latintext
-  \btxurlfont{https://developer.atlassian.com/cloud/jira/platform/rest/v3/}}.
-
-\bibitem {jira_features}
-\btxtitlefont {\btxifchangecase {Jira software - features. atlassian}{Jira
-  Software - Features. Atlassian}}, 2019.
-\newblock {\latintext
-  \btxurlfont{https://www.atlassian.com/software/jira/features}}.
-
-\bibitem {taiga_api}
-\btxtitlefont {\btxifchangecase {Taiga api documentation}{Taiga API
-  Documentation}}, 2019.
-\newblock {\latintext
-  \btxurlfont{https://taigaio.github.io/taiga-doc/dist/api.html}}.
-
-\bibitem {taiga_webhooks}
-\btxtitlefont {\btxifchangecase {Taiga support - webhooks}{Taiga Support -
-  Webhooks}}, 2019.
-\newblock {\latintext
-  \btxurlfont{https://tree.taiga.io/support/integrations/webhooks/}}.
 
 \bibitem {disadvantages_agile}
 \btxtitlefont {\btxifchangecase {What are the disadvantages of agile?}{What are
@@ -65,11 +44,21 @@
   \btxtitlefont {\btxifchangecase {The agile manifesto}{The agile manifesto}},
   2001.
 
+\bibitem {brown_2011}
+\btxnamefont {\btxlastnamefont {Brown}, Daniel\btxfnamespacelong
+  M}\btxauthorcolon\ \btxtitlefont {Communicating design}.
+\newblock \btxpublisherfont {New Riders}, 2011.
+
 \bibitem {chandler_1962}
 \btxnamefont {\btxlastnamefont {Chandler}, Alfred\btxfnamespacelong
   D}\btxauthorcolon\ \btxtitlefont {Strategy and structure: Chapters in the
   History of the American Industrial Enterprise}.
 \newblock \btxpublisherfont {MIT Press}, 1962.
+
+\bibitem {cohn_2012}
+\btxnamefont {\btxlastnamefont {Cohn}, Mike}\btxauthorcolon\ \btxtitlefont
+  {Agile estimating and planning}.
+\newblock \btxpublisherfont {Prentice Hall PTR}, 2012.
 
 \bibitem {denning_2015}
 \btxnamefont {\btxlastnamefont {Denning}, Steve}\btxauthorcolon\ \btxtitlefont
@@ -77,6 +66,13 @@
   The World's Most Popular Innovation Engine}}, 2015.
 \newblock {\latintext
   \btxurlfont{https://www.forbes.com/sites/stevedenning/2015/07/23/the-worlds-most-popular-innovation-engine}}.
+
+\bibitem {kholmatova_2017}
+\btxnamefont {\btxlastnamefont {Kholmatova}, Alla}\btxauthorcolon\
+  \btxtitlefont {Design Systems: A Practical Guide For Creating Design
+  Languages For Digital Products}.
+\newblock \btxpublisherfont {Smashing Magazine}, \btxeditionnumlong {1}{},
+  2017.
 
 \bibitem {mas'ad_2019}
 \btxnamefont {\btxlastnamefont {Mas'Ad}, Rafik}, \btxnamefont {Ricardo

@@ -11,53 +11,53 @@ Warning--to sort, need author, editor, or key in scrum_report_1
 Warning--to sort, need author or key in disadvantages_agile
 Warning--to sort, need author or key in nursoft
 Warning--to sort, need author or key in coursera
-Warning--to sort, need author or key in taiga_webhooks
-Warning--to sort, need author or key in taiga_api
-Warning--to sort, need author or key in jira_features
-Warning--to sort, need author or key in jira_api
+Warning--to sort, need author, editor, or key in iso_2005
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty language in nursoft
+Warning--empty author and editor in iso_2005
+Warning--empty publisher in iso_2005
+Warning--empty year in iso_2005
 Warning--empty author and editor in scrum_report_1
 Warning--empty booktitle in satria_systematic
 You've used 15 entries,
             2788 wiz_defined-function locations,
-            695 strings with 7777 characters,
-and the built_in function-call counts, 4332 in all, are:
-= -- 339
-> -- 130
+            700 strings with 7701 characters,
+and the built_in function-call counts, 4481 in all, are:
+= -- 352
+> -- 148
 < -- 1
-+ -- 60
-- -- 42
-* -- 392
-:= -- 567
-add.period$ -- 28
++ -- 66
+- -- 48
+* -- 405
+:= -- 614
+add.period$ -- 27
 call.type$ -- 15
 change.case$ -- 61
 chr.to.int$ -- 0
 cite$ -- 26
-duplicate$ -- 234
-empty$ -- 515
-format.name$ -- 80
-if$ -- 953
+duplicate$ -- 257
+empty$ -- 507
+format.name$ -- 89
+if$ -- 967
 int.to.chr$ -- 0
 int.to.str$ -- 15
-missing$ -- 5
-newline$ -- 73
-num.names$ -- 14
-pop$ -- 162
+missing$ -- 12
+newline$ -- 72
+num.names$ -- 20
+pop$ -- 159
 preamble$ -- 1
-purify$ -- 50
+purify$ -- 53
 quote$ -- 0
-skip$ -- 156
+skip$ -- 147
 stack$ -- 0
 substring$ -- 98
-swap$ -- 77
+swap$ -- 84
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 56
+type$ -- 48
 warning$ -- 11
-while$ -- 16
+while$ -- 22
 width$ -- 17
-write$ -- 137
+write$ -- 138
 (There were 11 warnings)
